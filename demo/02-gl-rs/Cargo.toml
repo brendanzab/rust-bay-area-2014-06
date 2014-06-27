@@ -1,0 +1,18 @@
+[package]
+
+name = "02-gl-rs"
+version = "0.1.0"
+license = "ASL2"
+authors = [ "Brendan Zabarauskas" ]
+
+[[bin]]
+
+name = "02-gl-rs"
+
+[dependencies.gl-rs]
+
+git = "https://github.com/bjz/gl-rs.git"
+
+[dependencies.glfw-rs]
+
+git = "https://github.com/bjz/glfw-rs.git"

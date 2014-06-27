@@ -1,0 +1,14 @@
+[package]
+
+name = "00-basic-window"
+version = "0.1.0"
+license = "ASL2"
+authors = [ "Brendan Zabarauskas" ]
+
+[[bin]]
+
+name = "00-basic-window"
+
+[dependencies.glfw-rs]
+
+git = "https://github.com/bjz/glfw-rs.git"
