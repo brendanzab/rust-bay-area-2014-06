@@ -9,6 +9,6 @@ authors = [ "Brendan Zabarauskas" ]
 
 name = "00-basic-window"
 
-[dependencies.glfw-rs]
+[dependencies.glfw]
 
 git = "https://github.com/bjz/glfw-rs.git"
