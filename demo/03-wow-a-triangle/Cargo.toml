@@ -9,10 +9,10 @@ authors = [ "Brendan Zabarauskas" ]
 
 name = "03-wow-a-triangle"
 
-[dependencies.gl-rs]
+[dependencies.gl]
 
 git = "https://github.com/bjz/gl-rs.git"
 
-[dependencies.glfw-rs]
+[dependencies.glfw]
 
 git = "https://github.com/bjz/glfw-rs.git"
